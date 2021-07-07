@@ -71,7 +71,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.1);
+  transform: scale(1.1) rotate(40deg);
 }
 .tag {
   background-color: #efefef;
@@ -95,7 +95,7 @@ header .profile-image:hover {
   border-radius: 6px;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #346afd;
 }
 
 ul.skills {
